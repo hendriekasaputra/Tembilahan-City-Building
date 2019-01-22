@@ -8,7 +8,7 @@ View this Project-One [Coming soon](https://hendriekasaputra.github.io/Tembilaha
 ### Picrute one
 ![screenshot](https://github.com/hendriekasaputra/Tembilahan-City-Building/blob/master/Screenshot_Tembilahan_City_Building.png)
 ### Picrute two
-![screenshot](https://github.com/hendriekasaputra/Tembilahan-City-Building/blob/master/creenshot_Tembilahan_City_Building_2.png)
+![screenshot](https://github.com/hendriekasaputra/Tembilahan-City-Building/blob/master/Screenshot_Tembilahan_City_Building_2.png)
 ### Picrute three
 ![screenshot](https://github.com/hendriekasaputra/Tembilahan-City-Building/blob/master/Screenshot_Tembilahan_City_Building_3.png)
 
