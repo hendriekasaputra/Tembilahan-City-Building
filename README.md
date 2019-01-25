@@ -2,7 +2,7 @@
 Sistem Informasi Geografis Pemetaan Bangunan dan Pemukiman di Kota Tembilahan dengan WebGIS 
 
 # Demo
-View this Project-One [Coming soon](https://hendriekasaputra.github.io/Tembilahan-City-Building/)
+View this Project [Clikc Me](https://hendriekasaputra.github.io/Tembilahan-City-Building/)
 
 ## Screenshot
 ### Picrute one
